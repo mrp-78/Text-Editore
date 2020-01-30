@@ -1,11 +1,11 @@
-# Text-Editore
-Simple text editore like vim with implementation of <b>"piece table"</b>.
+# Text-Editor
+Simple text editor like vim with implementation of <b>"piece table"</b>.
 ## How to use?
-After compiling the code if you want to open a file with text editore run the code like this:
+After compiling the code if you want to open a file with text editor run the code like this:
 ```
 java Main vim filename.txt
 ```
-and if you want to open empty text editore run code without any parameter:
+and if you want to open empty text editor run code without any parameter:
 ```
 java Main
 ```
