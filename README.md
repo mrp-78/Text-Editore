@@ -47,6 +47,7 @@ note : This command work only in command mode.
  * <b> ```:dd``` </b> : delete line that cursor is there
  * <b> ```:Y``` </b> : copy chars from cursor index to end of line
  * <b> ```:yy``` </b> : copy line that cursor is there
+ * <b> ```:p``` </b> : paste 
  * <b> ```/[word]``` </b> : search word in text and show results
  * <b> ```:q``` </b> : quit
  * <b> ```:wq``` </b> : ‫‪save to file ‫‪and‬‬ ‫‪quit‬‬
